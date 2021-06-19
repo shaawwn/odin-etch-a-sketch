@@ -1,0 +1,35 @@
+/* #container {
+    background-color: green;
+} */
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+#interface {
+    display: flex;
+    justify-content: center;
+
+}
+
+#reset {
+    /* background-color: red; */
+
+}
+
+
+.grid-square {
+    background-color: white;
+}
+
+.hover {
+    background-color: black;
+}
+/* 
+.grid-square:hover {
+    background-color: grey;
+} */
